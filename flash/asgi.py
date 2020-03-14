@@ -1,5 +1,5 @@
 """
-ASGI config for flashcard project.
+ASGI config for flash project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
